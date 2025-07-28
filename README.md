@@ -10,7 +10,7 @@ HTML5 – Estrutura semântica e acessível.
 
 CSS3 Avançado – Animações, transições, efeitos paralaxe, grid e flexbox.
 
-JavaScript (Vanilla) – Interações dinâmicas, navegação fluida e efeitos interativos.
+JavaScript – Interações dinâmicas, navegação fluida e efeitos interativos.
 
 
 ✨ Funcionalidades
